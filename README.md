@@ -1,8 +1,8 @@
-## What's good! Kuberan here👋
+## 👋Hi there, I’m Kuberan (aka Kube)
 
-I build data systems that turn raw information into insight, with a focus on clarity, usability, and thoughtful design.
+I build data systems that turn raw information into insight, focusing on clarity, usability, and thoughtful design.
 
-My interests span **data analysis, data engineering, machine learning, and UI/UX**, and I enjoy working end‑to‑end — from datasets and pipelines to insights and interfaces.
+My interests span **data analysis, data engineering, machine learning, and UI/UX**, and I enjoy working end‑to‑end — from datasets and pipelines to insights and user‑facing interfaces.
 
 ---
 
@@ -23,8 +23,9 @@ My interests span **data analysis, data engineering, machine learning, and UI/UX
 ---
 
 ### 📫 Reach me
-- Email: kuberankalaiselvan@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/kuberan-a-l-kalai-selvan-0388303b0  
+- 📧 Email: kuberankalaiselvan@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kuberan-a-l-kalai-selvan-0388303b0  
+- 🧑‍💻 GitHub: https://github.com/kuberankalaiselvan-pro-git  
 
 ---
 
